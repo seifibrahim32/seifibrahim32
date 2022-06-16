@@ -1,14 +1,8 @@
 <!DOCTYPE html>
-<html>
-<head>
- <style>
- body{
-   background-color: #f19b9b;
-  }
-  </style>
-  
-</head>
-<body >
+<html> 
+ <body>
+<span style="color: #f19b9b;">
+ 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media-exp2.licdn.com/dms/image/C4E16AQEbsFE4J97Azw/profile-displaybackgroundimage-shrink_350_1400/0/1630277519251?e=1660780800&v=beta&t=OPL-KAku0xsg69wBAPvxDG8vZ5OI8bEuLoujZ1pkBPk" alt="seifibrahim32" /></a> </p>
 <h1 align="center">Hi 👋, I'm Seif Ashraf</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
@@ -66,6 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifibrahim32&show_icons=true&locale=en" alt="seifibrahim32" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifibrahim32&" alt="seifibrahim32" /></p>
-  </body>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifibrahim32&" alt="seifibrahim32" /></p> 
+ </span>
+ </body>
 </html>
