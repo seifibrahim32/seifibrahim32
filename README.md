@@ -1,5 +1,14 @@
+<!DOCTYPE html>
 <html>
-  <body>
+<head>
+ <style>
+ body{
+   background-color: #f19b9b;
+  }
+  </style>
+  
+</head>
+<body >
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media-exp2.licdn.com/dms/image/C4E16AQEbsFE4J97Azw/profile-displaybackgroundimage-shrink_350_1400/0/1630277519251?e=1660780800&v=beta&t=OPL-KAku0xsg69wBAPvxDG8vZ5OI8bEuLoujZ1pkBPk" alt="seifibrahim32" /></a> </p>
 <h1 align="center">Hi 👋, I'm Seif Ashraf</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
