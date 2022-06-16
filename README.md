@@ -1,9 +1,9 @@
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media-exp2.licdn.com/dms/image/C4E16AQEbsFE4J97Azw/profile-displaybackgroundimage-shrink_350_1400/0/1630277519251?e=1660780800&v=beta&t=OPL-KAku0xsg69wBAPvxDG8vZ5OI8bEuLoujZ1pkBPk" alt="seifibrahim32" /></a> </p>
 <h1 align="center">Hi 👋, I'm Seif Ashraf</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifibrahim32&label=Profile%20views&color=0e75b6&style=flat" alt="seifibrahim32" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifibrahim32&label=Profile%20views&color=0e75b6&style=flat" alt="seifibrahim32" /> </p>  
+<!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p> -->
 
 - 🔭 I’m currently contributing on [EatMyUrl](https://github.com/vigneshshettyin/EatMyURL)
 
