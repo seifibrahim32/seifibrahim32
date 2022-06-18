@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently contributing on [EatMyUrl](https://github.com/vigneshshettyin/EatMyURL)
 
-- 🌱 I’m currently learning **Flutter , Kotlin**
+- 🌱 I’m currently exploring many and many on **Flutter , Kotlin**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
