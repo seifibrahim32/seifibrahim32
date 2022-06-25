@@ -13,7 +13,6 @@
  <img src="https://img.shields.io/badge/Mobile-Engineer-purple" alt="seifibrahim32" />
   <img src="https://img.shields.io/badge/Flutter-Enthusiast-blue" alt="seifibrahim32" /> </p>
 <!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p> -->
-
 - 🔭 I’m currently contributing on [EatMyUrl](https://github.com/vigneshshettyin/EatMyURL)
 
 - 🌱 I’m currently exploring many and many on **Flutter , Kotlin**
@@ -58,12 +57,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifibrahim32&show_icons=true&locale=en&layout=compact" alt="seifibrahim32" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifibrahim32&show_icons=true&locale=en" alt="seifibrahim32" /></p>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifibrahim32&show_icons=true&locale=en" alt="seifibrahim32" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifibrahim32&" alt="seifibrahim32" /></p> 
  </span>
  </body>
 </html>
+
+### 🚀 Some of my main projects I contributed
+- ["native-frontend-flutter"]("https://github.com/seifibrahim32/native-frontend-flutter")
