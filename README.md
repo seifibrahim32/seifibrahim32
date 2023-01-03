@@ -73,4 +73,6 @@
 - [native-frontend-flutter](https://github.com/seifibrahim32/native-frontend-flutter) - Implemented Login Screens and some screens using Flutter , Firebase Autentication using Facebook , Google , Email/Password.
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
 ## 🚀 Some of my main projects
-- [SendizerApp](https://github.com/seifibrahim32/SendizerApp) - Messaging Chat App used using Flutter
+- [SendizerApp](https://github.com/seifibrahim32/SendizerApp) - Messaging Chat App using Flutter
+- [La Vie] (https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter
+- -[Health Diagnoser] () --Currently working....
