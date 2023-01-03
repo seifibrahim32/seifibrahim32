@@ -74,5 +74,5 @@
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
 ## 🚀 Some of my main projects
 - [SendizerApp](https://github.com/seifibrahim32/SendizerApp) - Messaging Chat App using Flutter
-- [La Vie] (https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter
-- -[Health Diagnoser] () --Currently working....
+- [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter
+- [Health Diagnoser] () --Currently working....
