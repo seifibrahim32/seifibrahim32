@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/seifashraf10112000](linkedin.com/seifashraf10112000)
 
-- 💬 Ask me about **Flutter , Android Kotlin,Java**
+- 💬 Ask me about **Flutter , Android Kotlin , Java**
 
 - 📫 How to reach me **seifibrahim32@gmail.com**
 
@@ -70,7 +70,7 @@
 ### 🚀 Some of my main projects I contributed during GSSOC'22 program
 - [native-frontend-flutter](https://github.com/seifibrahim32/native-frontend-flutter) - Implemented Login Screens and some screens using Flutter , Firebase Autentication using Facebook , Google , Email/Password.
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
-- 
+
 ## 🚀 Some of my main projects
 - [SendizerApp](https://github.com/seifibrahim32/SendizerApp) - Mini-Messaging Chat App using Flutter -- Currently developing more features.
 - [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter,done during Orange Flutter Hackathon
