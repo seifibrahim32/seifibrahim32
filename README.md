@@ -25,9 +25,9 @@
 
 - 📝 I regularly write articles on [linkedin.com/seifashraf10112000](linkedin.com/seifashraf10112000)
 
-- 💬 Ask me about **Flutter , Android Kotlin**
+- 💬 Ask me about **Flutter , Android Kotlin,Java**
 
-- 📫 How to reach me **seifibrahim32@Gmail.com**
+- 📫 How to reach me **seifibrahim32@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c-Yp9UJ90odA_Zf3taKJKvYIdhHL9ne-/view](https://drive.google.com/file/d/1c-Yp9UJ90odA_Zf3taKJKvYIdhHL9ne-/view)
 
@@ -72,5 +72,5 @@
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
 ## 🚀 Some of my main projects
 - [SendizerApp](https://github.com/seifibrahim32/SendizerApp) - Mini-Messaging Chat App using Flutter -- Currently developing more features.
-- [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter.
-- [Health Diagnoser](https://github.com/seifibrahim32/health_diagnosis) --Currently working....
+- [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter,done during Orange Flutter Hackathon
+- [HWatch](https://github.com/seifibrahim32/health_diagnosis) --Currently working....
