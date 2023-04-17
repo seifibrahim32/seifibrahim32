@@ -67,7 +67,7 @@
  </body>
 </html>
 
-### 🚀 Some of my main projects I contributed during GSSOC'22 program
+### 🚀 Some of open-source projects I contributed during GSSOC'22 program
 - [native-frontend-flutter](https://github.com/seifibrahim32/native-frontend-flutter) - Implemented Login Screens and some screens using Flutter , Firebase Autentication using Facebook , Google , Email/Password.
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
 
