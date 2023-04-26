@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/seifibrahim32)
 
-- 📝 I regularly write articles on [LinkedIn](linkedin.com/seifashraf10112000)
+- 📝 I regularly write articles on [LinkedIn](linkedin.com/in/seifashraf10112000)
 
 - 💬 Ask me about **Flutter , Android Kotlin , Java**
 
