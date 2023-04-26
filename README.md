@@ -21,9 +21,9 @@
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
-- 👨‍💻 All of my projects are available at [github.com/seifibrahim32](github.com/seifibrahim32)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/seifibrahim32)
 
-- 📝 I regularly write articles on [linkedin.com/seifashraf10112000](linkedin.com/seifashraf10112000)
+- 📝 I regularly write articles on [LinkedIn](linkedin.com/seifashraf10112000)
 
 - 💬 Ask me about **Flutter , Android Kotlin , Java**
 
