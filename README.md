@@ -27,9 +27,9 @@
 
 - 💬 Ask me about **Flutter , Android Kotlin , Java**
 
-- 📫 How to reach me **seifibrahim32@gmail.com**
+- 📫 How to reach me **seeifeldina@gmail.com**
 
-- 📄 Know about my experience [Click Here](https://drive.google.com/file/d/1Pq1Jx75Hb9UjbeJSyer6nx7OqlphZ1z9/view?usp=drivesdk)
+- 📄 Know about my experience [Click Here](https://drive.google.com/file/d/1zwBuTFPj2gbAba-rGOUdYGRFdrcK-BFt/view?usp=drive_link)
 
 - ⚡ Fun facts **I love coding, reading books , watching tutorials , using different development tools**
 
