@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/Flutter-Enthusiast-blue" alt="seifibrahim32" /> </p>
 <!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p> -->
  
-- 🌱 I’m currently exploring more on **Flutter**.
+- 🌱 I’m currently exploring more on **Flutter** and searching for internships.
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **open source projects endorse Flutter**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
@@ -31,7 +31,7 @@
 
 - 📄 Know about my experience [Click Here](https://drive.google.com/file/d/1zwBuTFPj2gbAba-rGOUdYGRFdrcK-BFt/view?usp=drive_link)
 
-- ⚡ Fun facts **I love coding, reading books , watching tutorials , using different development tools**
+- ⚡ Fun facts **I love coding, reading books, watching tutorials, using different development tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
