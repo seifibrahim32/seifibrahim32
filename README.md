@@ -72,5 +72,5 @@
 - [smart-home-app](https://github.com/seifibrahim32/smart-home-app) - Application for IoT smart home applicanes.
 
 ## 🚀 Some of my main projects 
-- [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter made for  Orange Flutter Hackathon
-- [HGlove](https://github.com/seifibrahim32/health_diagnosis) - Glove measurement for detecting health status --Still working...
+- [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter made for Orange Flutter Hackathon
+- [HGlove](https://github.com/seifibrahim32/health_diagnosis) - Health diagnoser app helps people to know their health status in update using Glove.
