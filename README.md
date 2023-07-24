@@ -39,7 +39,7 @@
 <a href="https://linkedin.com/in/seifashraf10112000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seifashraf10112000" height="30" width="40" /></a>
 <a href="https://instagram.com/seifibrahim32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seifibrahim32" height="30" width="40" /></a> 
 </p>
-<br>
+
 
 <h3 align="left">External profiles</h3>
 
