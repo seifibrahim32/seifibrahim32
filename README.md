@@ -23,13 +23,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/seifashraf10112000)
-
 - 💬 Ask me about **Flutter , Android Kotlin , Java**
 
 - 📫 How to reach me **seeifeldina@gmail.com**
 
-- 📄 Know about my experience [Click Here](https://drive.google.com/file/d/1zwBuTFPj2gbAba-rGOUdYGRFdrcK-BFt/view?usp=drive_link)
+- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/seifashraf10112000)
 
 - ⚡ Fun facts **I love coding, reading books, watching tutorials, using different development tools**
 
