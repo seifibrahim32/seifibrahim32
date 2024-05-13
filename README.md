@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Seif Ashraf</h1>
 
 ![background](https://user-images.githubusercontent.com/58334300/177885600-78e55a05-2ee4-4589-a782-073e9449ed13.jpg)
-<h3 align="center">A passionate Flutter developer from Egypt</h3> 
+<h3 align="center">A passionate software developer from Egypt</h3> 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seifibrahim32&label=Profile%20views&color=0e75b6&style=flat" alt="seifibrahim32" /> </p> 
@@ -19,13 +19,11 @@
  
 - 🌱 I’m currently exploring more on **Flutter** and searching for internships.
 
-- 👯 I’m looking to collaborate on **open source projects endorse Flutter**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
-- 💬 Ask me about **Flutter , Android Kotlin , Java**
+- 💬 Ask me about **Flutter , Android Kotlin , Java , Python**
 
-- 📫 How to reach me **seeifeldina@gmail.com**
+- 📫 You can reach me through **seeifeldina@gmail.com**
 
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/seifashraf10112000)
 
