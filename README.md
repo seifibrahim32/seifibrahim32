@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Flutter-Enthusiast-blue" alt="seifibrahim32" /> </p>
 <!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p> -->
  
-- 🌱 I’m currently exploring more on **Flutter** and searching for internships.
+- 🌱 I’m currently working on **Flutter** and **Python** projects.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
