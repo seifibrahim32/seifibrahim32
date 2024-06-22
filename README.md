@@ -65,11 +65,12 @@
 </html>
 
 ### 🚀 Some of open-source projects I contributed
-- [Vezeeta](https://github.com/seifibrahim32/) - Established backend application for doctors visits.
 - [customized-syncfusion-grid-view](https://github.com/seifibrahim32/) - Added some features such as add filtration and clear filtration.
 - [native-frontend-flutter](https://github.com/seifibrahim32/native-frontend-flutter) - Implemented Login Screens and some screens using Flutter , Firebase Autentication using Facebook , Google , Email/Password.
 - [Domus](https://github.com/seifibrahim32/smart-home-app) - Home automation mobile app using Flutter, contributed in hardware and Firebase for users, UI screens such as dashboard and etc ...
 
 ## 🚀 Some of my main projects 
+- [Vezeeta](https://github.com/seifibrahim32/) - Established backend application for doctors visits.
+- [Ediphoria](https://www.ediphoria.com) - To be announced.
 - [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter made for Orange Flutter Hackathon
 - [HGlove](https://github.com/seifibrahim32/health_diagnosis) - Health diagnoser app helps people to know their health status in update using Glove.
