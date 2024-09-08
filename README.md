@@ -73,7 +73,7 @@
 - [Domus](https://github.com/seifibrahim32/smart-home-app) - Home automation mobile app using Flutter, contributed in hardware and Firebase for users, UI screens such as dashboard and etc ...
 
 ## 🚀 Some of my main projects 
-- [Vezeeta](https://github.com/seifibrahim32/) - Established backend application for doctors visits.
+- [Vezeeta](https://github.com/seifibrahim32/Vezeeta_API) - Established backend application for doctors visits.
 - [War To The Core]() - A game website for a deployed game on Steam. -- Soon
 - [Ediphoria](https://www.ediphoria.com) - A future-AI automated website for authors and writers to generate and correct their writings.
 - [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter made for Orange Flutter Hackathon
