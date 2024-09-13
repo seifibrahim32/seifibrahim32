@@ -74,7 +74,7 @@
 
 ## 🚀 Some of my main projects 
 - [Vezeeta](https://github.com/seifibrahim32/Vezeeta_API) - Established backend application for doctors visits.
-- [War To The Core](https://thankful-island-03cd5cc1e.5.azurestaticapps.net/) - A game website for a deployed game on Steam. -- Soon
+- [War To The Core](https://thankful-island-03cd5cc1e.5.azurestaticapps.net/) - A game website for a deployed game on Steam.
 - [Ediphoria](https://www.ediphoria.com) - A future-AI automated website for authors and writers to generate and correct their writings.
 - [La Vie](https://github.com/seifibrahim32/La-Vie-Flutter) - Plants Community App using Flutter made for Orange Flutter Hackathon
 - [HGlove](https://github.com/seifibrahim32/health_diagnosis) - Health diagnoser app helps people to know their health status in update using Glove.
