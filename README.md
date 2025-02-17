@@ -74,6 +74,6 @@
 - [TBA]
 ## 🚀 Some of my main projects 
 - [War To The Core](https://wartothecore.com/) - A game website for a deployed game on Steam.
-- [Ediphoria](https://www.ediphoria.com) - A future-AI automated website for authors and writers to generate and correct their writings.
+- [Ediphoria](https://www.ediphoria.com) - A future-AI automated freelancing website for authors and writers to generate and correct their writings.
 - [HGlove](https://github.com/seifibrahim32/health_diagnosis) - Health diagnoser app helps people to know their health status in update using Glove.
 - [Vezeeta](https://github.com/seifibrahim32/Vezeeta_API) - Established backend application for doctors visits.
