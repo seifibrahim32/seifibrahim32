@@ -21,9 +21,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
-- 💬 Ask me about **Flutter, Android, Python**
+- 💬 Ask me about **Flutter, Android, Python**.
 
-- 📫 You can reach me through **seeifeldina@gmail.com**
+- 📫 You can reach me through **seeifeldina@gmail.com**.
 
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/seifashraf10112000)
 
