@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Flutter-Enthusiast-blue" alt="seifibrahim32" /> </p>
 <!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifibrahim32" alt="seifibrahim32" /></a> </p> -->
  
-- 🌱 I’m currently working on **Flutter** and **Python** projects.
+- 🌱 I’m currently working on **Flutter** and **Android** projects.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/seifibrahim32)
 
-- 💬 Ask me about **Flutter , Android Kotlin , Java , Python**
+- 💬 Ask me about **Flutter, Android, Python**
 
 - 📫 You can reach me through **seeifeldina@gmail.com**
 
